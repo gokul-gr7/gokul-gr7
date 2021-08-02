@@ -1,5 +1,5 @@
 b = input("ENTER YOUR NAME :")
-g = input("ENTER YOUR CRUSH NAME")
+g = input("ENTER YOUR CRUSH NAME:")
 b = list(b.upper())
 g = list(g.upper())
 
