@@ -1,5 +1,4 @@
-### Hi there 👋
+ ### Hi there 👋
 
-
-<a href="https://www.linkedin.com/in/gokulgr7/" target="blank"><img align = center src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt ="gokuljayanth" height="30" width="40">
-</a>
+<!-- see https://readme-typing-svg.herokuapp.com/demo -->
+[![Typing SVG](http://readme-typing-svg.herokuapp.com?color=%23F72418&lines=Hey%F0%9F%91%8B%2CNice+to+meet+you+%E2%9D%A4%EF%B8%8F)](https://git.io/typing-svg)
